@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Level {
     private final int level;
-    private List<ParkingSpot> parkingSpotList;
+    private final List<ParkingSpot> parkingSpotList;
 
     Level(int level, int numberOfSpots) {
         this.level = level;
