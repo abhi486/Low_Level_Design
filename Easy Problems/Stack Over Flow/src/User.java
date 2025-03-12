@@ -16,6 +16,9 @@ class User {
         creationDate = new Date();
         this.username = username;
         this.email = email;
+        questions = new ArrayList<>();
+        answers = new ArrayList<>();
+        comments = new ArrayList<>();
     }
 
     public Question askQuestion(String title, String content, List<String> tags) {

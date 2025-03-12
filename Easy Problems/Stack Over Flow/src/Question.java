@@ -19,6 +19,8 @@ class Question implements Commentable, Votable{
         this.author = author;
         this.title = title;
         this.content = content;
+        tags = new ArrayList<>();
+        comments = new ArrayList<>();
 
         for (String tag : tagNames) {
             tags.add(new Tag(tag));
