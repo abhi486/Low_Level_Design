@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Coffee Machine/Coffee Machine.iml" filepath="$PROJECT_DIR$/Coffee Machine/Coffee Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Easy Problems.iml" filepath="$PROJECT_DIR$/.idea/Easy Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parking Lot Management/Parking Lot Management.iml" filepath="$PROJECT_DIR$/Parking Lot Management/Parking Lot Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parking Lot V2/Parking Lot V2.iml" filepath="$PROJECT_DIR$/Parking Lot V2/Parking Lot V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack Over Flow/Stack Over Flow.iml" filepath="$PROJECT_DIR$/Stack Over Flow/Stack Over Flow.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c9cac4a-4281-4b05-bb93-90d13fca91e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/src/Americano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/src/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/src/Cappuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/src/CoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/src/CoffeeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/src/CoffeeMachineDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/src/CoffeeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/src/Ingredients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/src/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/src/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot V2/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot V2/src/MotorCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot V2/src/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot V2/src/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot V2/src/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot V2/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot V2/src/VehicleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot Management/Parking Lot Management.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack Over Flow/Stack Over Flow.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "abhi486"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/abhi486/Low_Level_Design.git",
+    "accountId": "346c5212-a51a-4c0c-8dc1-acb5bfbcd073"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="33mqFWSBuJsXmwjCjAmJwGjMHQr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Projects/IDEA java/Low level design/Easy Problems"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c9cac4a-4281-4b05-bb93-90d13fca91e3" name="Changes" comment="" />
+      <created>1759932491608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759932491608</updated>
+    </task>
+    <servers />
+  </component>
+</project>
