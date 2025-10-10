@@ -13,6 +13,10 @@ class BankingService {
         accounts.put(account.getAccountNumber(), account);
     }
 
+    public Account getAccount(String accountNumber) {
+        return accounts.get(accountNumber);
+    }
+
     public Account getAccountByCard(String cardNumber) {
         return cardsToAccounts.get(cardNumber);
     }

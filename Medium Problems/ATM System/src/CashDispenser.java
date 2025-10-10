@@ -1,7 +1,7 @@
 class CashDispenser {
-    private static CashDispenser instance;
-    private NoteDispense100 noteDispense100;
-    private NoteDispense500 noteDispense500;
+    private static volatile CashDispenser instance;
+    private final NoteDispense100 noteDispense100;
+    private final NoteDispense500 noteDispense500;
     // Singleton pattern to ensure only one instance of CashDispenser
     private CashDispenser() {
         noteDispense100 = new NoteDispense100();

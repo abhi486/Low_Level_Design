@@ -1,11 +1,11 @@
 import java.time.LocalDate;
 
 class Card {
-    String cardNumber;
-    String cardHolderName;
-    String expiryDate;
-    String cvv;
-    int pin;
+    private String cardNumber;
+    private String cardHolderName;
+    private String expiryDate;
+    private String cvv;
+    private int pin;
 
     Card (String cardNumber, String cardHolderName, String expiryDate, String cvv, int pin) {
         this.cardNumber = cardNumber;
@@ -33,11 +33,12 @@ class Card {
         return current.isAfter(expiry.withDayOfMonth(expiry.lengthOfMonth()));
     }
 
-    public synchronized boolean changePin(int oldPin, int newPin) {
-        if (this.pin == oldPin) {
+    public synchronized boolean changePin(int newPin) {
             this.pin = newPin;
             return true;
-        }
-        return false;
+    }
+
+    public synchronized boolean authenticate(int pin) {
+        return this.pin == pin;
     }
 }
